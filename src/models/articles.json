@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "title": "The Art of Cooking",
+    "contents": "Exploring the joy of cooking and its benefits for mental well-being.",
+    "created_by_user_id": 1,
+    "is_published": true,
+    "created_at": "2024-05-13T08:00:00Z",
+    "updated_at": "2024-05-13T08:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "The Future of Renewable Energy",
+    "contents": "Examining the latest advancements and potential of renewable energy sources.",
+    "created_by_user_id": 2,
+    "is_published": true,
+    "created_at": "2024-05-12T10:30:00Z",
+    "updated_at": "2024-05-12T10:30:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Mindfulness Meditation: A Path to Inner Peace",
+    "contents": "Discovering the transformative effects of mindfulness meditation on stress reduction and emotional well-being.",
+    "created_by_user_id": 1,
+    "is_published": true,
+    "created_at": "2024-05-11T15:45:00Z",
+    "updated_at": "2024-05-11T15:45:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Exploring the Wonders of Space",
+    "contents": "Unveiling the mysteries of the universe and our quest to explore beyond our planet.",
+    "created_by_user_id": 3,
+    "is_published": true,
+    "created_at": "2024-05-10T12:00:00Z",
+    "updated_at": "2024-05-10T12:00:00Z"
+  },
+  {
+    "id": 5,
+    "title": "The Rise of Artificial Intelligence",
+    "contents": "Analyzing the impact of AI on various industries and its implications for the future.",
+    "created_by_user_id": 3,
+    "is_published": false,
+    "created_at": "2024-05-09T09:30:00Z",
+    "updated_at": "2024-05-09T09:30:00Z"
+  },
+  {
+    "id": 6,
+    "title": "The Beauty of Nature: A Photographic Journey",
+    "contents": "Capturing the splendor of nature through stunning photography and visual storytelling.",
+    "created_by_user_id": 2,
+    "is_published": true,
+    "created_at": "2024-05-08T14:15:00Z",
+    "updated_at": "2024-05-08T14:15:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Unlocking the Secrets of the Human Brain",
+    "contents": "Delving into neuroscience research to understand the complexities of the human brain.",
+    "created_by_user_id": 1,
+    "is_published": false,
+    "created_at": "2024-05-07T11:45:00Z",
+    "updated_at": "2024-05-07T11:45:00Z"
+  },
+
+  {
+    "id": 8,
+    "title": "The Evolution of Digital Marketing",
+    "contents": "Tracing the evolution of digital marketing strategies and their impact on consumer behavior.",
+    "created_by_user_id": 1,
+    "is_published": true,
+    "created_at": "2024-05-06T16:00:00Z",
+    "updated_at": "2024-05-06T16:00:00Z"
+  },
+  {
+    "id": 9,
+    "title": "The Joys of Parenthood",
+    "contents": "Celebrating the experiences and challenges of raising children and nurturing families.",
+    "created_by_user_id": 2,
+    "is_published": false,
+    "created_at": "2024-05-05T13:20:00Z",
+    "updated_at": "2024-05-05T13:20:00Z"
+  },
+
+  {
+    "id": 10,
+    "title": "Exploring Cultural Diversity",
+    "contents": "Embracing the richness of cultural diversity and promoting inclusivity in society.",
+    "created_by_user_id": 2,
+    "is_published": true,
+    "created_at": "2024-05-04T10:10:00Z",
+    "updated_at": "2024-05-04T10:10:00Z"
+  }
+]
